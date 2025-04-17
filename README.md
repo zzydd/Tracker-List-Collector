@@ -4,6 +4,8 @@
 
 ### Tracker收集者 - 下载整合网络上的 Tracker List
 
+<br />
+
 # 运行环境 | Environment
 
 1. python 3.6+
@@ -13,6 +15,8 @@
 pip intsall requests
 ```
 
+<br />
+
 # 使用 | Use
 
 1. 在 Address.txt 中填写好网络上 TrackerList 文件的下载链接
@@ -21,7 +25,7 @@ pip intsall requests
 4. 运行完成程序输出3种格式的文件：TrackerList.txt ; TrackerList-aira2.txt ; TrackerList-general.txt
 5. 复制并使用输出的文件即可
 
-> > > 
+<br />
 
 1. Fill in the download link of the TrackerList file from the Internet in Address.txt
 2. Run TrackerCollector.py
@@ -29,7 +33,7 @@ pip intsall requests
 4. After running the program, output files in three formats: Raw ; general ; Aria2
 5. Just copy and use the output file
 
-
+<br />
 
 # 图片 | Image
 
