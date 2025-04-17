@@ -1,0 +1,56 @@
+# trackers run (https://trackers.run)
+https://trackers.run/s/wp_ws_up_hp_hs_v4_v6.txt
+
+# XIU2 (https://github.com/XIU2/TrackersListCollection)
+https://cf.trackerslist.com/best.txt
+https://cf.trackerslist.com/all.txt
+https://cf.trackerslist.com/http.txt
+https://cf.trackerslist.com/nohttp.txt
+
+# ngosang (https://github.com/ngosang/trackerslist)
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_i2p.txt
+
+
+#adysec tracker (https://github.com/adysec/tracker)
+https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_best.txt
+https://raw.githubusercontent.com/adysec/tracker/refs/heads/main/trackers_all.txt
+
+# (http://github.itzmx.com/)
+http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+
+# 公共 Tracker (https://github.com/hezhijie0327/Trackerslist)
+https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_combine.txt
+https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_tracker.txt
+
+# Tunglies Tracker 集成 (https://github.com/Tunglies/TrackersList)
+https://raw.githubusercontent.com/Tunglies/TrackersList/refs/heads/main/all.txt
+
+
+# 动漫资源 Tracker (https://github.com/DeSireFire/animeTrackerList)
+https://at.raxianch.moe/AT_best.txt
+https://at.raxianch.moe/AT_best_ip.txt
+https://at.raxianch.moe/AT_all.txt
+https://at.raxianch.moe/AT_all_ip.txt
+https://at.raxianch.moe/AT_all_udp.txt
+https://at.raxianch.moe/AT_all_http.txt
+https://at.raxianch.moe/AT_all_https.txt
+https://at.raxianch.moe/AT_all_ws.txt
+
+
+# 动漫资源 Tracker(cdn)
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_best.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_best_ip.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_all.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_all_ip.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_all_udp.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_all_http.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_all_https.txt
+https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/ATline_all_ws.txt
